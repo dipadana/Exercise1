@@ -1,0 +1,17 @@
+h1 {
+    color: salmon;
+    margin-bottom: -14px;
+}
+
+.subteks {
+    font-size: 12px;
+    margin-top: 0;
+}
+
+.container {
+    background-color: white;
+    max-width: 70%;
+    color: grey;
+    margin: 0 auto;
+}
+
