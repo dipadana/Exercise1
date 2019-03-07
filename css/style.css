@@ -249,13 +249,13 @@ nav ul li a:hover {
 .footer-text-1{
     font-family: typo-grotesk;
     font-size: 20px;
-    color: #5a5a5a;
+    color: rgb(42, 50, 87);
     margin-top: 185px;
 }
 
 .footer-text-2{
     font-family: typo-grotesk;
     font-size: 16px;
-    color: #5a5a5a;
+    color: rgb(42, 50, 87);
     margin-top: -18px;
 }
