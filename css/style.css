@@ -70,39 +70,106 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:hover {
+    text-decoration: none;
+    color: #e4e2e9;
+    border-bottom: 2px solid #E4E2E9;
+
+}
+
 .title-line-1{
+    font-family: ubuntu;
+    font-size: 87px;
+    color: rgb(18, 22, 39);
+    margin-top: 115px;
+    transition: all 0.3s ease-in-out;
+}
+
+.title-line-1:hover{
     font-family: ubuntu;
     font-size: 87px;
     color: #e4e2e9;
     margin-top: 115px;
+    border-left: solid 2px #E4E2E9;
+    cursor: default;
+    padding-left: 10px;
+    transition: all 0.1s ease-in-out;
 }
 
 .title-line-2{
     font-family: typo-grotesk;
     font-size: 37px;
+    color: rgb(18, 22, 39);
+    margin-top: -40px;
+    transition: all 0.3s ease-in-out;
+}
+
+.title-line-2:hover{
+    font-family: typo-grotesk;
+    font-size: 37px;
     color: #e4e2e9;
     margin-top: -40px;
+    border-left: solid 2px #E4E2E9;
+    cursor: default;
+    padding-left: 10px;
+    transition: all 0.1s ease-in-out;
 }
 
 .title-line-3{
     font-family: typo-grotesk;
     font-size: 29px;
+    color: rgb(18, 22, 39);
+    margin-top: -25px;
+    transition: all 0.3s ease-in-out;
+}
+
+.title-line-3:hover{
+    font-family: typo-grotesk;
+    font-size: 29px;
     color: #e4e2e9;
     margin-top: -25px;
+    border-left: solid 2px #E4E2E9;
+    cursor: default;
+    padding-left: 10px;
+    transition: all 0.1s ease-in-out;
 }
 
 .title-line-4{
     font-family: ubuntu;
     font-size: 122px;
+    color: rgb(18, 22, 39);
+    margin-top: -45px;
+    transition: all 0.3s ease-in-out;
+}
+
+.title-line-4:hover{
+    font-family: ubuntu;
+    font-size: 122px;
     color: #e4e2e9;
     margin-top: -45px;
+    border-left: solid 2px #E4E2E9;
+    cursor: default;
+    padding-left: 10px;
+    transition: all 0.1s ease-in-out;
 }
 
 .title-line-5{
     font-family: typo-grotesk;
     font-size: 29px;
+    color: rgb(18, 22, 39);
+    margin-top: -40px;
+    transition: all 0.3s ease-in-out;
+}
+
+.title-line-5:hover{
+    font-family: typo-grotesk;
+    font-size: 29px;
     color: #e4e2e9;
     margin-top: -40px;
+    border-left: solid 2px #E4E2E9;
+    cursor: default;
+    padding-left: 10px;
+    transition: all 0.1s ease-in-out;
 }
 
 .subs-line-1{
@@ -113,7 +180,7 @@ nav ul li a {
 }
 
 .skill-box{
-    border:solid 1px #5e7496;
+    border:solid 1px rgb(18, 22, 39);
     border-radius: 10px;
     height: 422px;
     width: 330px;
@@ -122,6 +189,11 @@ nav ul li a {
     padding-left: 15px;
     padding-right: 15px;
     margin-top: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.skill-box:hover{
+    background-color: #e4e2e9;
 }
 
 .text-box{
@@ -130,20 +202,20 @@ nav ul li a {
 
 .skill-teks-line-1{
     font-family: ubuntu-mono;
-    color: #e4e2e9;
+    color: #0D101C;
     font-size: 89px;
     margin-top: 63px;
 }
 
 .skill-teks-line-2{
     font-family: typo-grotesk;
-    color: #e4e2e9;
+    color: #0D101C;
     font-size: 24px;
 }
 
 .skill-teks-line-3{
     font-family: typo-grotesk;
-    color: #e4e2e9;
+    color: #0D101C;
     font-size: 24px;
 }
 
