@@ -3,23 +3,23 @@ body{
 }
 
 @font-face {
-    font-family: 'typo-grotesk';
-    src: url('/font/typo-grotesk/Typo\ Grotesk\ Demo.otf');
+    font-family: "typo-grotesk";
+    src: url("../font/TypoGrotesk.otf") format("opentype");
 }
 
 @font-face {
     font-family: 'typo-grotesk-thin';
-    src: url('/font/typo-grotesk/Typo\ Grotesk\ Thin\ Demo.otf');
+    src: url("../font/TypoGroteskThin.otf") format("opentype");
 }
 
 @font-face {
     font-family: 'ubuntu';
-    src: url('/font/ubuntu/Ubuntu-M.ttf') format('truetype');
+    src: url("../font/Ubuntu-M.ttf") format("truetype");
 }
 
 @font-face {
-    font-family: 'ubuntu-mono';
-    src: url('/font/ubuntu-mono/UbuntuMono-R.ttf') format('truetype');
+    font-family: 'ubuntumono';
+    src: url("../font/UbuntuMono-R.ttf") format("truetype");
 }
 
 .container{
@@ -201,7 +201,7 @@ nav ul li a:hover {
 }
 
 .skill-teks-line-1{
-    font-family: ubuntu-mono;
+    font-family: ubuntumono;
     color: #0D101C;
     font-size: 89px;
     margin-top: 63px;
