@@ -12,4 +12,4 @@
   
   
 # About me
-  Saya orangnya gelap, dan mysterious, jadi saya juga mendesign situs ini agar mencerminkan seperti apa saya... :)
+  Saya orangnya gelap dan misteri, jadi saya juga mendesign situs ini agar mencerminkan seperti apa saya... :)
