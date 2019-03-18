@@ -1,5 +1,7 @@
-# Exercise1
-  tugas hacktiv8 dan facebook devc
+# Exercise1 | devC x Hacktiv8
+  Situs ini dikerjakan menggunakan HTML, CSS, dan Bootstrap Grid sebagai toolnya.
+  
+  Best view = 1366px x 768px (currently not responsive)
   
   
   
